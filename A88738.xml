@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true intelligence from Ireland; being a true relation of the great victory lately obtained against the rebels by Sir William Stewart, Colonell Sanderson, Colonell Mervyn, and Sergeant Major Galbraith, against the great Oneales and MacGwires forces, wherein they slew great numbers of the rebels, tooke 900. cowes, 500. sheep, and 300. horses from the rebels in the county of Fermanagh. Also how they relieved 6000. women and children, which otherwise had perished. With a declaration of the present condition of that kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88738</idno><idno type="EEBO-CITATION">99871735</idno>
+  <idno type="VID">156313</idno>
+  <idno type="EEBO-PROQUEST">2240951465</idno>
+  
+            <idno type="STC">Wing L509</idno>
+            <idno type="STC">Thomason E130_23</idno>
+            <idno type="STC">ESTC R22402</idno>
+            <idno type="PROQUEST">99871735</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871735e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156313)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true intelligence from Ireland; being a true relation of the great victory lately obtained against the rebels by Sir William Stewart, Colonell Sanderson, Colonell Mervyn, and Sergeant Major Galbraith, against the great Oneales and MacGwires forces, wherein they slew great numbers of the rebels, tooke 900. cowes, 500. sheep, and 300. horses from the rebels in the county of Fermanagh. Also how they relieved 6000. women and children, which otherwise had perished. With a declaration of the present condition of that kingdome.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 14. Printed for L. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Galbraith, James, 17th cent --  Early works to 1800.</term>
+               <term type="personal_name">Mervyn, Audley, --  Sir, d. 1675 --  Early works to 1800.</term>
+               <term type="personal_name">Sanderson, --  Colonel --  Early works to 1800.</term>
+               <term type="personal_name">Stewart, William, --  Sir, d. 1647? --  Early works to 1800.</term>
+               <term type="geographic_name">Fermanagh (Northern Ireland) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156313:1"/>
+            <pb facs="tcp:156313:1"/>
+            <p>THE LAST True Intelligence FROM IRELAND; <hi>BEING</hi> A true Relation of the great Victory lately obtained against the Rebels by Sir <hi>William Stewart,</hi> Colonell <hi>Sanderson,</hi> Colonell <hi>Mervyn,</hi> and Sergeant Major <hi>Galbraith,</hi> against the great <hi>Oneales</hi> and <hi>Mac Gwires</hi> Forces, wherein they slew great numbers of the Rebels, tooke 900. Cowes, 500. Sheep, and 300. Horses from the Rebels in the County of <hi>Fermanagh.</hi>
+            </p>
+            <p>Also how they relieved 6000. women and children, which otherwise had perished. With a Declaration of the present condition of that Kingdome.</p>
+            <p>
+               <hi>LONDON, Decemb.</hi> 14. Printed for <hi>L. Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156313:2"/>
+            <pb n="1" facs="tcp:156313:2"/>
+            <head>TRUE INTELLIGENCE <hi>FROM</hi> IRELAND: Being a true Relation of the great victories obtained by Sir WILLIAM STEVVARD his Forces against the great <hi>Oneales</hi> and <hi>Mac Gwires</hi> Forces in the County of <hi>Fermanagh.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>William Stewart</hi> under<g ref="char:EOLhyphen"/>standing of a party of Oneales in the Kirrilrs woods, sent out Cap<g ref="char:EOLhyphen"/>taine Balfoure a deser<g ref="char:EOLhyphen"/>ving souldier, with an hundred men, who skirmisht with them, killed fifty Rebels, and lost but foure of his own men, and took away four hundred cowes from the Rebels. Some foure dayes after Sir William Steward desired Lievtenant Colonell Sanderson, Lievtenant Colonell Audley Mervin, and Serjeant Maior James Galbraith to march from Newtowne to relieve Ageer and Aghatyan, with five hundred
+<pb n="2" facs="tcp:156313:3"/>foot, and an hundred horse. Then we marched out into Fermanagh, where we took five hundred cows, as many sheep, and three hundred horses, and slaying seventy rebels: upon their return they besieged Co<g ref="char:EOLhyphen"/>lonell Donnogh Mac Gwires Castle, being strongly imbattailed and flanckt, and after many shot past on both sides, the wind turning upon the fore-part of the house, we fired some out-houses, in the smoke whereof we approached the gate, set it on fire, en<g ref="char:EOLhyphen"/>tred the Castle, and put the men to the sword: and indeed ye shall never expect to see more resolution either in commanders or souldiers: but not to insist upon that, let their acts speak for themselves; in this march they relieved six thousand women and chil<g ref="char:EOLhyphen"/>dren, which otherwise had perished.</p>
+            <p>In this service Ensigne <hi>Long</hi> behaved himself as if he had been bullet proofe: at hand whilst we were imployed in this service. The Rebels drew down upon Sir <hi>William Stewart</hi> at <hi>Newtown,</hi> and the Castle plaid off and killed 50 of their men in the streets, and preserved the towne except one house or two at the furthermost end.</p>
+            <p>Collonell <hi>Nugent</hi> a most seditious instrument that married the Lord of <hi>Eniskillons</hi> mother drew about 600 men about <hi>Balyshanon</hi> Castle, a place of great strength and importance, against whom Col<g ref="char:EOLhyphen"/>lonell Sir <hi>Raph Gore,</hi> and Captaine <hi>Maxwell</hi> a for<g ref="char:EOLhyphen"/>ward gentleman drew out some 200 men and 60 horse, who encountred them, routed them killed upwards of 180 Rebels, tooke Collonell <hi>Nugents</hi> horse who left it and his bootes ript off behind him
+<pb n="3" facs="tcp:156313:3"/>besides many that came down the River by dozen and tennes which were killed by them, and not one man lost upon our side. Divers sallies were made by Ccaptaine <hi>John Folliot</hi> a Gentleman desery<g ref="char:EOLunhyphen"/>ving much commendations for his courage and dis<g ref="char:EOLhyphen"/>cretion, as also by his Lieutenant <hi>William Ankthill</hi> Esquire a bold comrade, sometimes killing 20 30 in which Captain <hi>Folliot</hi> received a sore wound in his hand, being at the sword entred and beset with th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rebells.</p>
+            <p>Notwithstanding the good successe which the Protestants have had against the Rebels, yet by reason of the present distractions in England, the Protestants in many places are much distressed for want of necessaries, as appeares by their own De<g ref="char:EOLhyphen"/>claration following.</p>
+            <p>THat the present troubles, dangers, and cala<g ref="char:EOLhyphen"/>mities which at this perilous time we are in are so great, that this whole Kingdome is much distorted, distracted and disturbed.</p>
+            <p>That the rebels are so many in number (by credible information above 40000 men, besides women and children) that we alone are not able to resist them.</p>
+            <p>That the Rebels tyranny is so great that they put both man woman and child (that are Protestants) to the sword, not sparing either age, degree, or sex or their reputation.</p>
+            <p>That our Lands possessions and estates, are spoilt by the said Rebells, and so intolerably abused, tha men of greatest ability are impoverished, and sort scarce a piece of bread to put in their mouthes.</p>
+            <pb n="4" facs="tcp:156313:4"/>
+            <p> That they expect some aid assistance, armes, and supply from forreigne Counties, both from <hi>France, Spaine, &amp;c.</hi>
+            </p>
+            <p>That unlesse it be in some places in the Northern parts of this kingdome, we have not either a Town or village, but is either lamentably distressed or by the rebells inhabited, or some part thereof burnt downe to the ground, or extreme pillage in the same.</p>
+            <p>That all things are so excessive deare, that scarce victualls and things of impendent necessitie can be got with any rate.</p>
+            <p>That wheat is at ten shilling foure pence a bushel and is very hard to be bought too at that price, and for other things there is such an extraordinary rate, that many are famished weekly, and perish with hunger for want of sustenance.</p>
+            <p>That when the countrie thereabouts would bring in provision for the City, they are surprised by the rebells, who lie in ambush almost in every hole, therefore they dare not supply our wants, for feare themselves should be brought to the same misery</p>
+            <p>That they have stripped naked many Protestants, and so sent them into the City both men and wo<g ref="char:EOLhyphen"/>men, and that men worth 5 or 600 pounds over night, have scarce A rag to hang on their backs next morning.</p>
+            <p>That they have oftentimes intended to seise upon our City of <hi>Dublin,</hi> but (as it was Gods great and singular mercy towards us) they have been prevented. Yet notwithstanding they plot dai<g ref="char:EOLhyphen"/>ly against us, to the utter extirpation of al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prote<g ref="char:EOLhyphen"/>stants,
+<pb n="5" facs="tcp:156313:4"/>and to the perpetuall demolition of this State and Kingdome.</p>
+            <p>That they have ravished many Virgins, and wo<g ref="char:EOLhyphen"/>men, before their husbands faces, and have taken their children and dashed their brains against the walls, in the sight of the weeping Parents, and at length destroyed them likewise, without any pity or humanity.</p>
+            <p>That in some villages, they pull down the houses over their heads, putting others to the greatest mi<g ref="char:EOLhyphen"/>sery, that can be supposed.</p>
+            <p>That the Scots have entred battell with the Re<g ref="char:EOLhyphen"/>bells and many slayne on both sides, but 5. to one more of the Rebels side were slaine.</p>
+            <p>We are not able to continue any longer, in regard of their daily broyls, plots, and rebellious courses, neither dare we oppose them in respect of their number, and multitude which increaseth everie day. Wherefore we have thought it very requisite to in<g ref="char:EOLhyphen"/>forme you our brethren in <hi>England</hi> more particular<g ref="char:EOLhyphen"/>ly of our calamities, and distresses, hoping that you will commiserate our wofull estate, and assist us against those wicked miscreants, in so just a cause to the honour of his Majesties crowne and glory of the Kingdome. Beseeching likewise, and humbly imploring all other good Christians to aid us herein and undoubtedly, God will crown us with the vi<g ref="char:EOLhyphen"/>ctory, to the flourishing propagation of his Gospel and the plausible maintenance of true Religion. Once more do we earnestly desire your Honours
+<pb n="6" facs="tcp:156313:5"/>to take these severall promises into your Christian Consideration, that you would be pleased to send some sudden forces unto us with all expedition, otherwise we are not able to groane any longer under this heavy burthen of their tyrannie, and Re<g ref="char:EOLhyphen"/>bellion. In the meane while hoping that you will not altogether forget our lamentable miserie which we suffer at this time, we commend our cases to to your brotherly affections, and Christian hearts, and especially to Almighty God, who, we know, is able to destroy al their wicked crew at one blast: and who will in his due time give a victorie to his people, who are now in bondage, to the pacificati<g ref="char:EOLhyphen"/>on of these three Kingdomes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
